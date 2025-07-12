@@ -1,0 +1,35 @@
+.card-image{
+    display: flex;
+}
+.card{
+    width: 300px;
+    background-color: white;
+    margin-left: 230px;
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+.review{
+    display: flex;
+    font-weight: 600;
+    align-items: center;
+}
+.review li{
+    list-style: none;
+}
+.review img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.card-section{
+    display: flex;
+    font-family:"Raleway", sans-serif ;
+}
+.user{
+     font-family:"Raleway", sans-serif ;
+     margin-top: 100px;
+}
+.date{
+    font-weight: 100;
+}

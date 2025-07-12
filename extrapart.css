@@ -1,0 +1,36 @@
+.extra{
+    font-family: "Inter", sans-serif;
+background-color:#eaf0ff;
+text-align: center;
+padding: 40px 40px 40px 40px;
+margin-top: 60px;
+margin-bottom: 60px;
+max-width: 1000px;
+margin-left: 400px;
+ border-radius:30px;
+}
+.extra-button{
+  background-color: rgb(89, 31, 248);
+    border-radius: 4px;
+    height: 30px;
+    padding: 0 15px;
+    font-size: 70%;
+    margin-bottom: 20px;
+    margin-left:0;
+    color: white;
+    cursor: pointer;
+    border:none;
+  }
+  .extra-button:hover{
+    background-color: aqua;}
+    
+  .extra img{
+    border-radius: 20px;
+  }
+  .extra p{
+font-size: 13px;
+  }
+  .extra h1{
+    font-size: 50px;
+    font-weight: 600;
+  }
