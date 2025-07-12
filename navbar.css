@@ -1,0 +1,76 @@
+header{
+    background-image: url(images/Hero-bg.png);
+    background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   height: 100vh;
+}
+.inter-normal{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  color:blue ;
+  font-style: normal;
+  width: 99px;
+  height: 60px;
+  cursor: pointer;
+}
+.inter-normal a{
+  text-decoration: none;
+}
+nav{
+    display: flex;
+    margin-left: 100px;
+    margin-right:20px;
+    gap: 1500px;
+}
+nav li{
+list-style: none;
+}
+.btn-primary{
+  background-color:rgb(89, 31, 248) ;
+  border-radius: 5px;
+  color: white;
+  padding: 5px 10px;
+  cursor: pointer;
+  border: none;
+}
+.abc{
+  
+  font-family: "Raleway", sans-serif;
+  font-weight:800;
+  font-style: normal;
+  margin-top: 250px;
+  margin-bottom: 100px;
+  margin-left: 680px;
+  font-size: 25px;
+  align-items: center;
+}
+.xyz{
+  margin:0 200px 0px 0px
+}
+.focus-btn{
+   background-color:rgb(89, 31, 248) ;
+  border-radius: 5px;
+  color: white;
+  padding: 5px 10px;
+  cursor: pointer;
+  border: none;
+  margin-left: 14%;
+  
+}
+.efg{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  color:black;
+}
+.para{
+  font-weight: 200;
+}
+.focus-btn:hover{
+  background-color: aqua;
+}
+.btn-primary:hover{
+  background-color:aqua;
+}
