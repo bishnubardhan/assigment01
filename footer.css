@@ -1,0 +1,28 @@
+footer{
+    background-color: rgb(252, 250, 249);
+    text-align: center;
+    padding: 40px 20px;
+}
+.footer-heading{
+  margin-left:45%;
+  background: scroll;
+  font-size: 30px;
+  align-items: center;
+}
+.footer-para{
+    margin:10px 0 20px;
+  align-items: center;
+  font-family: "Inter", sans-serif;
+  font-weight: 200;
+  color: rgb(121, 119, 119);
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.footer-list a{
+    text-decoration: none;
+   margin: 0 10px;
+   font-size: 14px;
+    color: rgb(121, 119, 119);
+}
